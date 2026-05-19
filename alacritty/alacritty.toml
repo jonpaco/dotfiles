@@ -57,3 +57,8 @@ action = "CreateNewWindow"
 key = "Return"
 mods = "Command"
 action = "ToggleFullscreen"
+
+[[keyboard.bindings]]
+key = "M"
+mods = "Command"
+action = "Minimize"
