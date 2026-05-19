@@ -1,6 +1,6 @@
 [window]
 opacity = 0.95
-padding = { x = 10, y = 10 }
+padding = { x = 10, y = 30 }
 decorations = "transparent"
 dynamic_title = true
 option_as_alt = "Both"
